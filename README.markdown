@@ -1,5 +1,7 @@
 # Py CURL :anchor:
 
+![GitHub CI](https://github.com/iamtheblackunicorn/PyCurl/actions/workflows/python.yaml/badge.svg)
+
 ## About :books:
 
 D'you know the tool `wget`? This is like that, but in Python 3.
