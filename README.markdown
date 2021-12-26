@@ -24,3 +24,6 @@ $ python3 pycurl.py https://blckunicorn.art/assets/images/posts/09.png
 ```
 
 ## Note :scroll:
+
+- *Py CURL :anchor:* by Alexander Abraham :black_heart: a.k.a. *"The Black Unicorn" :unicorn:*
+- Licensed under the MIT license.
