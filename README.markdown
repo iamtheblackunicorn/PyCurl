@@ -16,7 +16,7 @@ To use this tool, you need the following tools installed:
 
 ### Run it!
 
-- 1.) Download the tool from [here]().
+- 1.) Download the tool from [here](https://raw.githubusercontent.com/iamtheblackunicorn/PyCurl/main/src/pycurl.py).
 - 2.) Run the tool like this:
 
 ```bash
