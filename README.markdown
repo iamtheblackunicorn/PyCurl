@@ -1,4 +1,4 @@
-# Py CURL :pyramid:
+# Py CURL :anchor:
 
 ## About :books:
 
